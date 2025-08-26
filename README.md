@@ -76,8 +76,8 @@ This project unequivocally demonstrates my practical skills in incident analysis
 
 ## 📚 Resources
 
-* **[Your Organisation's Security Policies/Procedures (Simulated)]:** The foundational backbone that guided every step of this incident response.
-* **[Threat Intelligence Platforms (Simulated)]:** Utilised for rapid and accurate verification of malicious file hashes.
+* **Organisation's Security Policies/Procedures (Simulated):** The foundational backbone that guided every step of this incident response.
+* **Threat Intelligence Platforms (Simulated):** Utilised for rapid and accurate verification of malicious file hashes.
 
 ## 🙌 Credits / Acknowledgements
 
